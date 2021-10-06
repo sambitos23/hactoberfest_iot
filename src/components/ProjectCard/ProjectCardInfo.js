@@ -78,7 +78,7 @@ function ProjectCardInfo() {
       imageUrl: "./assets/projects/GIT-ON-ANDROID.svg",
       title: "GitOnAndroid",
       link:"https://github.com/iot-lab-kiit/GitOnAndroid",
-      desc: "A Git client Android App, to handel all the github work from your android phone in case you don't have your laptop/dextop."
+      desc: "A Git client Android App, to handel all the github work from your android phone in case you don't have your laptop/desktop."
     },
     {
       id: 12,
@@ -94,6 +94,13 @@ function ProjectCardInfo() {
       link:"https://github.com/iot-lab-kiit/HeathyWays",
       desc: "Health is our principal asset. However, sometimes the conditions for staying healthy do not favor the students who are busy building a great future ahead. Hence we have introduced this friendly application for all those busy people to monitor one's good health in the least time required. The app consists of various monitory calculators to monitor fat percentage, BMI, Calorie Expenditure, etc. It has an amazing 7 minutes exercise advisor with 12  vital exercises."
     },
+    // {
+    //   id: 14,
+    //   imageUrl: "./assets/projects/healthy ways.svg",
+    //   title: "Blog Engine",
+    //   link:"https://github.com/iot-lab-kiit/blog-engine-android",
+    //   desc: "Health is our principal asset. However, sometimes the conditions for staying healthy do not favor the students who are busy building a great future ahead. Hence we have introduced this friendly application for all those busy people to monitor one's good health in the least time required. The app consists of various monitory calculators to monitor fat percentage, BMI, Calorie Expenditure, etc. It has an amazing 7 minutes exercise advisor with 12  vital exercises."
+    // },
     
   ]);
   return (

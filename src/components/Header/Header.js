@@ -3,8 +3,8 @@ import CountDown from "../Countdown/CountDown";
 
 function Header() {
   return (
-    <section className="text-secondary-100 body-font font-semibold lg:pt-0">
-      <div className="container sm:mx-auto flex sm:px-5 md:flex-row flex-col items-center py-36 md:py-40">
+    <section className="text-secondary-100 body-font font-semibold">
+      <div className="container sm:mx-auto flex sm:px-5 md:flex-row flex-col items-center py-28 md:py-40">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <p className="font-bold mb-4">
             #hacktoberfest &nbsp; #kiithacktoberfest
