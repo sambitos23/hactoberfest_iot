@@ -75,7 +75,7 @@ function Footer() {
           <a
             rel="noreferrer"
             target="_blank"
-            href="/brandguidelines"
+            href="https://hacktoberfest.digitalocean.com/brandguidelines"
             class="block text-xs hover:text-dorange duration-300"
           >
             Brand Guidelines

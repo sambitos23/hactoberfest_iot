@@ -71,7 +71,7 @@ function ProjectCardInfo() {
       imageUrl: "./assets/projects/ANDROID COMPONENT LIBRARY.svg",
       title: "Android Component Library",
       link:"https://github.com/iot-lab-kiit/Android-Components-Library",
-      desc: "IoT Labs, KIIT brings you Android Component Library, an Open Source project with easy and optimized visuals for code explanations. Built with all UI components, here we have provided easy code explanations with UI visuals. In addition, every code is available in Kotlin. "
+      desc: "IoT Lab, KIIT brings you Android Component Library, an Open Source project with easy and optimized visuals for code explanations. Built with all UI components, here we have provided easy code explanations with UI visuals. In addition, every code is available in Kotlin. "
     },
     {
       id: 11,
@@ -85,7 +85,7 @@ function ProjectCardInfo() {
       imageUrl: "./assets/projects/todo.svg",
       title: "To-Do-List",
       link:"https://github.com/iot-lab-kiit/To-Do-List-Hacktoberfest",
-      desc: "ToDo List is a simple notes app and an Open Source & beginner friendly project brought to you by Iot Labs,KIIT. "
+      desc: "ToDo List is a simple notes app and an Open Source & beginner friendly project brought to you by Iot Lab,KIIT. "
     },
     {
       id: 13,

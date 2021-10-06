@@ -51,7 +51,7 @@ const Partners = () => {
             <div className="h-full flex flex-col items-center justify-center text-center">
               <img
                 alt="team"
-                className="flex-shrink-0 w-8/12 object-cover object-center"
+                className="flex-shrink-0 w-6/12 object-cover object-center"
                 src="/assets/partners/dsc.svg"
               />
             </div>

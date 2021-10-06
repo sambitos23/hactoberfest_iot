@@ -10,7 +10,7 @@ function Header() {
             #hacktoberfest &nbsp; #kiithacktoberfest
           </p>
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-extrabold text-secondary-200">
-            Celebrate a monthlong <br />
+            Celebrate a month-long <br />
             Open Source Fest
           </h1>
           <p className="mb-8 leading-relaxed">

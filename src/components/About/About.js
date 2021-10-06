@@ -24,7 +24,7 @@ function About() {
             you’re new to development, a student, long-time contributor, event
             host, or company of any size, you can help drive growth of open
             source and make positive contributions to an ever-growing community.
-            chunk of them.
+            Chunk of them.
             <br />
           </p>
         </div>
