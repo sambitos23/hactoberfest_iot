@@ -14,7 +14,9 @@ function Footer() {
           </div>
           <div class="subscribe-form lg:w-1/2">
             <a
-              href="/giving"
+              href="https://gdsc.community.dev/events/details/developer-student-clubs-kalinga-institute-of-industrial-technology-bhubaneswar-presents-hacken-fest-2021/"
+              target="_blank"
+              rel="noreferrer"
               class="inline-block bg-primary-50 py-2 px-8 rounded-full text-white shadow-sm text-center hover:shadow-2xl duration-300"
             >
               Register Now

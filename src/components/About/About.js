@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <section className="text-gray-600 body-font bg-primary-100 -mt-40 lg:-mt-0">
+    <section className="bg-primary-100">
       <div className="container mx-auto flex px-5 py-5 md:flex-row flex-col items-center">
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
           <a href="https://hacktoberfest.digitalocean.com?wvideo=amutdkejlv">
@@ -14,7 +14,7 @@ function About() {
             />
           </a>
         </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 text-white lg:flex-grow -mt-8 lg:mt-0 lg:pt-8 lg:pl-12 md:pl-12 flex flex-col md:items-start md:text-left items-center text-center">
+        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 text-white lg:flex-grow lg:pt-8 lg:pl-12 md:pl-12 flex flex-col md:items-start md:text-left items-center text-center">
           <h1 className="text-lg lg:text-2xl mb-4 font-bold">
             Support open source and pick a limited edition T-shirt or plant a
             tree.

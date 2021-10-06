@@ -58,8 +58,8 @@ const Partners = () => {
           </div>
         </div>
       </div>
-      <p className="text-center text-secondary-100 mb-4 px-12 text-lg font-bold">Support open source throughout October!</p>
-      <p className="text-center text-secondary-100 px-12 text-sm md:text-base md:px-28 font-semibold">Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.</p>
+      <p className="text-center text-secondary-100 mb-4 px-12 md:text-lg font-bold">Support open source throughout October!</p>
+      <p className="text-center text-secondary-100 px-12 text-xs md:text-base md:px-28 font-semibold">Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.</p>
     </section>
   );
 };

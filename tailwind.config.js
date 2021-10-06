@@ -3,14 +3,6 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
-      // inset: {
-      //   "1/2": "50%",
-      //   "2/5": "40%",
-      //   full: "100%",
-      // },
-      // zIndex: {
-      //    '-1': '-1',
-      // },
       colors: {
         primary: {
           default:"#F4F0E1",
@@ -24,9 +16,6 @@ module.exports = {
           300: "#2C3532",
         },
       },
-      // fontFamily: {
-      //   custom: ['Comfortaa'],
-      // },
     },
   },
   variants: {
