@@ -49,7 +49,7 @@ function ProjectCardInfo() {
       id: 7,
       imageUrl: "./assets/projects/Library Management App.svg",
       title: "Library Management App",
-      link:"https://github.com/DSC-KIIT/Library-Management-System-Flutte",
+      link:"https://github.com/DSC-KIIT/Library-Management-System-Flutter",
       desc: "This flutter application is for the users who are in charge of the library."
     },
     {
@@ -71,14 +71,14 @@ function ProjectCardInfo() {
       imageUrl: "./assets/projects/ANDROID COMPONENT LIBRARY.svg",
       title: "Android Component Library",
       link:"https://github.com/iot-lab-kiit/Android-Components-Library",
-      desc: "IoT Labs, KIIIT brings you Android Component Library, an Open Source project with eas6 and optimized visuals for code explanations. Built with all UI components, here we have provided easy code explanations with UI visuals. In addition, every code is available in Kotlin. "
+      desc: "IoT Labs, KIIT brings you Android Component Library, an Open Source project with easy and optimized visuals for code explanations. Built with all UI components, here we have provided easy code explanations with UI visuals. In addition, every code is available in Kotlin. "
     },
     {
       id: 11,
       imageUrl: "./assets/projects/GIT-ON-ANDROID.svg",
       title: "GitOnAndroid",
       link:"https://github.com/iot-lab-kiit/GitOnAndroid",
-      desc: "A Git client Android App, to handel all the github work from your android phone in case you don't have your laptop/desktop."
+      desc: "A Git client Android App, to handle all the github work from your android phone in case you don't have your laptop/desktop."
     },
     {
       id: 12,
