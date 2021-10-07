@@ -108,7 +108,7 @@ function ProjectCardInfo() {
       <p className="text-center text-2xl lg:text-4xl font-extrabold text-secondary-200">Projects to Contribute</p>
       <div className="mb-10 w-full flex flex-wrap justify-center">
         {b.map(({ id, ...otherprops }) => (
-          <div className="w-11/12 md:w-6/12 lg:w-4/12 z-20 flex justify-center">
+          <div key={id} className="w-11/12 md:w-6/12 lg:w-4/12 z-20 flex justify-center">
             <ProjectCardStyle key={id} {...otherprops} />
           </div>
         ))}
