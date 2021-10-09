@@ -11,7 +11,7 @@ const Partners = () => {
       <p className="font-bold text-xl text-secondary-100 text-center mt-4">
         Presented by
       </p>
-      <div className="w-8/12 flex flex-wrap justify-around pt-6 mx-auto">
+      <div className="w-11/12 md:w-8/12 flex flex-wrap justify-around pt-6 mx-auto">
         <img
           src="./assets/partners/digitalocan.svg"
           alt="hactoberfest"
@@ -59,7 +59,7 @@ const Partners = () => {
         </div>
       </div>
       <p className="text-center text-secondary-100 mb-4 px-12 md:text-lg font-bold">Support open source throughout October!</p>
-      <p className="text-center text-secondary-100 px-12 text-xs md:text-base md:px-28 font-semibold">Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.</p>
+      <p className="text-center text-secondary-100 px-12 text-xs md:text-base md:px-28 md:font-semibold">Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.</p>
     </section>
   );
 };
