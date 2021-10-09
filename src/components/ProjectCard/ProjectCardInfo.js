@@ -94,20 +94,34 @@ function ProjectCardInfo() {
       link:"https://github.com/iot-lab-kiit/HeathyWays",
       desc: "Health is our principal asset. However, sometimes the conditions for staying healthy do not favor the students who are busy building a great future ahead. Hence we have introduced this friendly application for all those busy people to monitor one's good health in the least time required. The app consists of various monitory calculators to monitor fat percentage, BMI, Calorie Expenditure, etc. It has an amazing 7 minutes exercise advisor with 12  vital exercises."
     },
-    // {
-    //   id: 14,
-    //   imageUrl: "./assets/projects/healthy ways.svg",
-    //   title: "Blog Engine",
-    //   link:"https://github.com/iot-lab-kiit/blog-engine-android",
-    //   desc: "Health is our principal asset. However, sometimes the conditions for staying healthy do not favor the students who are busy building a great future ahead. Hence we have introduced this friendly application for all those busy people to monitor one's good health in the least time required. The app consists of various monitory calculators to monitor fat percentage, BMI, Calorie Expenditure, etc. It has an amazing 7 minutes exercise advisor with 12  vital exercises."
-    // },
-    // {
-    //   id: 15,
-    //   imageUrl: "./assets/projects/healthy ways.svg",
-    //   title: "Blog Engine",
-    //   link:"https://github.com/iot-lab-kiit/blog-engine-android",
-    //   desc: "Health is our principal asset. However, sometimes the conditions for staying healthy do not favor the students who are busy building a great future ahead. Hence we have introduced this friendly application for all those busy people to monitor one's good health in the least time required. The app consists of various monitory calculators to monitor fat percentage, BMI, Calorie Expenditure, etc. It has an amazing 7 minutes exercise advisor with 12  vital exercises."
-    // },
+    {
+      id: 14,
+      imageUrl: "./assets/projects/Mobile blog.svg",
+      title: "Blog Engine Android",
+      link:"https://github.com/iot-lab-kiit/blog-engine-android",
+      desc: "IoT Lab, KIIT, brings you this exciting project Blog-Engine-Android, a blog engine to easily read your interests and pastedown your ideas.An optimized blog engine that has been launched as an application and a website. We offer blog writing services on our website, whilst the application allows you to read anything you want. Given an option for like and comment, you can also get valuable reviews for your work."
+    },
+    {
+      id: 15,
+      imageUrl: "./assets/projects/quotes.svg",
+      title: "Quotes",
+      link:"https://github.com/iot-lab-kiit/quotes",
+      desc: "Quotes is an Open Source project brought to you by Iot Lab,KIIT and it brings you easy and optimized visuals for the explanation of the code. It’s a web app that is built using ReactJS. Further updates will be available soon."
+    },
+    {
+      id: 16,
+      imageUrl: "./assets/projects/Blog web.svg",
+      title: "Blog Frontend",
+      link:"https://github.com/iot-lab-kiit/blog-engine-web",
+      desc: "Blog Engine Web is an Open Source project brought to you by Iot Lab,KIIT and it brings you easy and optimized visuals for the explanation of the code. It’s a web app that is built using Python. Further updates will be available soon."
+    },
+    {
+      id: 17,
+      imageUrl: "./assets/projects/Blog bg.svg",
+      title: "Blog Backend",
+      link:"https://github.com/iot-lab-kiit/blog-backend",
+      desc: "This is a simple repository made on Node JS, it will control all the API calls that are currently being made in the blog front-end and blog android. It is the heart and soul of 2 live running projects."
+    },
     
   ]);
   return (
